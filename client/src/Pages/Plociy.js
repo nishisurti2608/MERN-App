@@ -1,12 +1,12 @@
 import React from "react";
 import Layout from "../Components/Layout/Layout";
 
-const Plociy = () => {
+const Policy = () => {
   return (
     <Layout>
-      <h1>Home Page</h1>
+      <h1>Policy Page</h1>
     </Layout>
   );
 };
 
-export default Plociy;
+export default Policy;
